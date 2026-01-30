@@ -1,0 +1,8 @@
+{
+  "name": "College AI – Intelligent Management for Examination Department",
+  "description": "A minimal, clean, and professional prototype for a university examination department management system featuring AI-assisted student help desk and role-based access control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

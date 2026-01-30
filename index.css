@@ -1,0 +1,9 @@
+/* College AI - Minimal CSS for Tailwind compatibility */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
